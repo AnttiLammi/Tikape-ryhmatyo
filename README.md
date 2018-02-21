@@ -1,2 +1,3 @@
-# Tikape-ryhm-ty-
+# Tikape-ryhmatyo
+
 Drinkkiappi Tietokantojen Perusteet kurssille
